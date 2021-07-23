@@ -4,6 +4,7 @@
 //
 //  Created by Akiya Ozawa on R 3/06/27.
 //
+// add 2 way verification
 
 import UIKit
 
